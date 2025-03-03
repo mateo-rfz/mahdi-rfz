@@ -1,5 +1,6 @@
-👋 Hey there, I'm Mateo!
+## Mateo — only a curious mind
 
-I'm just a curious soul. 
 
-<a href=#><img src="contributions.svg"></a>
+**Hackers are more than what you think.**UNKNOWN
+
+<a href="#"><img src="contributions.svg"></a>
